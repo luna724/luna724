@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - Java
 - Minecraft Forge / Fabric / ChatTrigger / Datapack / KubeJS
 - HTML / CSS 
-<br/>
 
 #### 使いたいと思ってる言語
 - Cubism Live2D
