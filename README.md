@@ -1,6 +1,6 @@
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on luna_py
+- 🔭 I’m currently working on LunaClient
 - 🌱 I’m currently learning Cubism Live2D
 - 🤔 I’m looking for help with improve my Live2D model
 - 📫 How to reach me: Discord / GMail
