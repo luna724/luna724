@@ -1,28 +1,24 @@
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LunaClient
+- 🔭 I’m currently working on luna_py (SDPEM)
 - 🌱 I’m currently learning Cubism Live2D
 - 🤔 I’m looking for help with improve my Live2D model
-- 📫 How to reach me: Discord / GMail
+- 📫 How to reach me: Discord (iloveichika2)
 - 😄 Pronouns: any
 - ⚡ Fun fact: saki×ichika
 
 めんどくさくなって途中で終わったりする性格です。<br/>
 
 #### 使える言語
-- Python (3)
+- Python
 - Java
 - Minecraft Forge / Fabric / ChatTrigger / Datapack / KubeJS
 - HTML / CSS 
 
 #### 使いたいと思ってる言語
 - Cubism Live2D
-- Unity
+- Unity (C#)
 - JavaScript
-
-#### 対話できる言語
-- 日本語
-- English
 
 ### その他のURL
 - [GitHub](https://github.com/luna724)
