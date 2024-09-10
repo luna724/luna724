@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - Python
 - Java
 - Minecraft Forge / Fabric / ChatTrigger / Datapack / KubeJS
-- HTML / CSS 
+- HTML / CSS / JavaScript / Node.js
 
-#### 使いたいと思ってる言語
+#### 使いてぇ.. と思ってる言語
 - Cubism Live2D
-- Unity (C#)
+- Unity
+- C# / C++
 - JavaScript
 
 ### その他のURL
@@ -25,3 +26,4 @@ Here are some ideas to get you started:
 - [Youtube](https://www.youtube.com/@%E6%98%9F%E4%B9%83%E3%82%8B%E3%81%AA)
 - [Twitter?](https://x.com/luna__k1bych724)
 - [Discord](https://discordapp.com/users/1123616332349452288)
+- [Codecademy](https://www.codecademy.com/profiles/luna724)
