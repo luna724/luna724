@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 #### 使いてぇ.. と思ってる言語
 - Cubism Live2D
-- Unity
 - C# / C++
-- JavaScript
 
 ### その他のURL
 - [GitHub](https://github.com/luna724)
