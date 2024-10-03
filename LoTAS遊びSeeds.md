@@ -56,3 +56,5 @@
 | Lucky Bastion Seed | -6832782463825130901 | 1.18 | |
 | Shipwreck Island Seed | 1616970520256216229 | 1.18 | |
 | IceBoat Seed | -8724539567136308488 | 1.19 | Slabomb |
+
+Credits : [pengyllis/UltimateSpawnList](https://github.com/pengyllis/UltimateSpawnList)
