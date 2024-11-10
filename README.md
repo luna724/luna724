@@ -1,14 +1,16 @@
 めんどくさくなって途中で終わったりする性格です。<br/>
 
 #### 使える言語
-- Python
-- Java
+- Python*
+- Java / Kotlin*
 - Minecraft Forge / Fabric / ChatTrigger / Datapack / KubeJS
 - HTML / CSS / JavaScript / Node.js
 
-#### 使いてぇ.. と思ってる言語
+#### 使いたい/勉強中の言語/ツール
 - Cubism Live2D
 - C# / C++
+- TypeScript
+- OpenPose Editor
 
 ### その他のURL
 - [GitHub](https://github.com/luna724)
