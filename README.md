@@ -4,7 +4,7 @@
 - Python*
 - Java / Kotlin*
 - Minecraft Forge / Fabric / ChatTrigger / Datapack / KubeJS
-- HTML / CSS / JavaScript / Node.js
+- HTML / CSS / JavaScript
 
 #### 使いたい/勉強中の言語/ツール
 - Cubism Live2D
