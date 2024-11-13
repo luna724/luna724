@@ -9,8 +9,7 @@
 #### 使いたい/勉強中の言語/ツール
 - Cubism Live2D
 - C# / C++
-- TypeScript
-- OpenPose Editor
+- TypeScript*
 
 ### その他のURL
 - [GitHub](https://github.com/luna724)
@@ -18,3 +17,12 @@
 - [Twitter?](https://x.com/luna__k1bych724)
 - [Discord](https://discordapp.com/users/1123616332349452288)
 - [Codecademy](https://www.codecademy.com/profiles/luna724)
+- [Pixiv](https://www.pixiv.net/users/93502153)
+
+
+```md
+- `2024/11/13`: OpenPose Editor 習得
+- `2024/11/13`: TypeScript学習 / JavaScript復習開始
+
+
+```
