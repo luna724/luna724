@@ -10,7 +10,7 @@ OSS Developerになりたい高校生、 <br />
 - Java / Kotlin*
 - Minecraft Forge / Fabric / ChatTrigger / Datapack / KubeJS
 - HTML / CSS / JavaScript
-- 
+- SQLite
 
 #### 使いたい/勉強中の言語/ツール
 - Cubism Live2D
