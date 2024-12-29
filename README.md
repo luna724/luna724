@@ -1,4 +1,7 @@
-<h3 align="center"> <a href="https://github.com/luna724/LunaClient">楽しいことをする</a>、<a href="https://github.com/luna724/SDPEM">自分が欲しいものを作る</a>、<a href="https://www.pixiv.net/users/111460317">他人に見せびらかすものを作る</a> </p> </br>
+<h3 align="center"> <a href="https://github.com/luna724/LunaClient">楽しいことをする</a>、<a href="https://github.com/luna724/SDPEM">自分が欲しいものを作る</a>、<a href="https://www.pixiv.net/users/111460317">他人に見せびらかすものを作る</a> </p> 
+<h5 align="center"> <a href="https://luna724.github.io"> @luna724のすべて </a></h5> </br>
+
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luna724&show_icons=true&theme=radical)](https://github.com/luna724)
 
@@ -10,8 +13,8 @@
     <a href="https://kotlinlang.org/"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </a>
   </p>
 
-<div align="center">
-<h5>その他テーブル</h5>
+
+<h4>その他テーブル</h5>
 
 | かなり使える言語 | まあまあ使える言語 | 学習中の言語 |
 | :-------------: | :--------------: | :---------: |
