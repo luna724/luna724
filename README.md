@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/a3dc88bc-f773-46f5-86f8-abb56f21a04b.svg)](https://wakatime.com/@luna724)
 
-<h4 align="center"> メイン言語 </h4>
+<h3 align="center"> メイン言語 </h3>
   <p align="center"> 
     <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
     <a href="https://kotlinlang.org/"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </a>
