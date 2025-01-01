@@ -22,7 +22,7 @@
 
 <span><br/>
   
-[![](https://wakatime.com/badge/user/a3dc88bc-f773-46f5-86f8-abb56f21a04b.svg)](https://wakatime.com/@luna724) </span> &nbsp;&nbsp; <span> [![](https://komarev.com/ghpvc/?username=luna724&color=blue&style=flat)](https://github.com/luna724/luna724) </span> &nbsp;&nbsp; <span> [![](https://img.shields.io/github/stars/luna724?style=flat)](https://github.com/luna724?tab=repositories) </span> &nbsp;&nbsp; <span> ![](https://img.shields.io/github/watchers/luna724?style=flat)
+[![](https://wakatime.com/badge/user/a3dc88bc-f773-46f5-86f8-abb56f21a04b.svg)](https://wakatime.com/@luna724) </span> &nbsp;&nbsp; <span> [![](https://komarev.com/ghpvc/?username=luna724&color=blue&style=flat&label=Profile%20Views)](https://github.com/luna724/luna724) </span> &nbsp;&nbsp; <span> [![](https://img.shields.io/github/stars/luna724?style=flat&label=Received%20Stars)](https://github.com/luna724?tab=repositories) </span> &nbsp;&nbsp; <span> [![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/luna724?tab=repositories)
 </span>
 
 <h3 align="center"> メイン言語 </h3>
