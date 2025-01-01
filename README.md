@@ -2,14 +2,16 @@
 <h5 align="center"> <a href="https://luna724.github.io"> @luna724のすべて </a></h5>
 
 <div align="center">
+  <!--
   <a href="https://github.com/luna724">
-   <img height=200 width=600 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luna724&theme=radical">
+   <img height=200 width=400 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luna724&theme=radical">
   </a>
+  -->
     &nbsp;
   <a href="https://github.com/luna724">
    <img height=200 width=395 src="https://github-readme-stats.vercel.app/api?username=luna724&show_icons=true&theme=radical">
   </a>
-  
+    &nbsp;&nbsp;
   <a href="https://github.com/luna724?tab=repositories">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna724&layout=compact&theme=radical">
   </a>
