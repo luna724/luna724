@@ -1,11 +1,27 @@
 <h3 align="center"> <a href="https://github.com/luna724/LunaClient">楽しいことをする</a>、<a href="https://github.com/luna724/SDPEM">自分が欲しいものを作る</a>、<a href="https://www.pixiv.net/users/111460317">他人に見せびらかすものを作る</a> </p> 
-<h5 align="center"> <a href="https://luna724.github.io"> @luna724のすべて </a></h5> </br>
+<h5 align="center"> <a href="https://luna724.github.io"> @luna724のすべて </a></h5>
 
 <div align="center">
+  <a href="https://github.com/luna724">
+   <img height=200 width=600 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luna724&theme=radical">
+  </a>
+    &nbsp;
+  <a href="https://github.com/luna724">
+   <img height=200 width=395 src="https://github-readme-stats.vercel.app/api?username=luna724&show_icons=true&theme=radical">
+  </a>
+  
+  <a href="https://github.com/luna724?tab=repositories">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna724&layout=compact&theme=radical">
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luna724?tab=repositories">
+    <img height=180 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luna724&theme=radical">
+  </a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luna724&show_icons=true&theme=radical)](https://github.com/luna724)
-
-[![wakatime](https://wakatime.com/badge/user/a3dc88bc-f773-46f5-86f8-abb56f21a04b.svg)](https://wakatime.com/@luna724)
+<span><br/>
+  
+[![](https://wakatime.com/badge/user/a3dc88bc-f773-46f5-86f8-abb56f21a04b.svg)](https://wakatime.com/@luna724) </span> &nbsp;&nbsp; <span> [![](https://komarev.com/ghpvc/?username=luna724&color=blue&style=flat)](https://github.com/luna724/luna724) </span> &nbsp;&nbsp; <span> [![](https://img.shields.io/github/stars/luna724?style=flat)](https://github.com/luna724?tab=repositories) </span> &nbsp;&nbsp; <span> ![](https://img.shields.io/github/watchers/luna724?style=flat)
+</span>
 
 <h3 align="center"> メイン言語 </h3>
   <p align="center"> 
@@ -16,24 +32,9 @@
 
 <h4>その他テーブル</h5>
 
-| かなり使える言語 | まあまあ使える言語 | 学習中の言語 |
-| :-------------: | :--------------: | :---------: |
-| Markdown | Java | JavaScript |
-| ChatTriggers-JS | mcfunction |
-| | HTML | |
-| | CSS | |
-| | KubeJS | |
-
-
-<h5> そんな言語は捨ててきた </h5>
-
-| 嫌いな言語 |
-| :-------: |
-| C++ |
-| C |
-| Swift |
-| Ruby |
-| C# |
-| TypeScript |
-
-</div>
+| かなり使える言語 | まあまあ使える言語 | 学習中の言語 | 嫌いな言語 |
+| :-------------: | :--------------: | :---------: | :-------: |
+| Markdown | Java | JavaScript | C |
+| ChatTriggers-JS | mcfunction | | Go |
+| | HTML | | Ruby |
+| | CSS | | TypeScript |
