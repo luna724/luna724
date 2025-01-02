@@ -36,7 +36,7 @@
 
 | かなり使える言語 | まあまあ使える言語 | 学習中の言語 | 嫌いな言語 |
 | :-------------: | :--------------: | :---------: | :-------: |
-| Markdown | Java | JavaScript | C |
+| Markdown | Java | React | C |
 | ChatTriggers-JS | mcfunction | | Go |
-| | HTML | | Ruby |
-| | CSS | | TypeScript |
+| | HTML / CSS | | Ruby |
+| | JavaScript | | TypeScript |
