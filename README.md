@@ -27,8 +27,8 @@
 
 <h3 align="center"> メイン言語 </h3>
   <p align="center"> 
-    <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
-    <a href="https://kotlinlang.org/"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </a>
+    <a href="https://github.com/luna724/SDPEM"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
+    <a href="https://github.com/luna724/LunaClient"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </a>
   </p>
 
 
@@ -36,8 +36,8 @@
 
 | かなり使える言語 | まあまあ使える言語 | 学習中の言語 | 嫌いな言語 |
 | :-------------: | :--------------: | :---------: | :-------: |
-| Markdown | Java | React | C系 |
-| ChatTriggers-JS | mcfunction | C++ | Go |
-| | HTML / CSS / SCSS | C# | Ruby |
-| | JS / JSX / TS | | TypeScript |
-| | React | | |
+| [Markdown](https://github.com/luna724/luna724) | [Java](https://github.com/luna724/LunaClient) | [React](https://github.com/luna724/test) | C系 |
+| [ChatTriggers-JS](https://github.com/luna724/LunaClient) | [mcfunction](https://github.com/luna724/datapack-collection) | C++ | Go |
+| | [HTML / CSS / SCSS](https://github.com/luna724/luna724.github.io) | C# | Ruby |
+| | [JS / JSX](https://github.com/luna724/test) / TS | | TypeScript |
+| | [React](https://github.com/luna724/test) | | |
