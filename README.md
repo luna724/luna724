@@ -39,5 +39,5 @@
 | [Markdown](https://github.com/luna724/luna724) | [Java](https://github.com/luna724/LunaClient) | [React](https://github.com/luna724/test) | C系 |
 | [ChatTriggers-JS](https://github.com/luna724/LunaClient) | [mcfunction](https://github.com/luna724/datapack-collection) | C++ | Go |
 | | [HTML / CSS / SCSS](https://github.com/luna724/luna724.github.io) | C# | Ruby |
-| | [JS / JSX](https://github.com/luna724/test) / TS | | TypeScript |
-| | [React](https://github.com/luna724/test) | | |
+| | [JS / JSX](https://github.com/luna724/test) / TS | Blender | TypeScript |
+| | [React](https://github.com/luna724/test) | VRoid | |
