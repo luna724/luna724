@@ -36,8 +36,8 @@
 
 | かなり使える言語 | まあまあ使える言語 | 学習中の言語 | 嫌いな言語 |
 | :-------------: | :--------------: | :---------: | :-------: |
-| [Markdown](https://github.com/luna724/luna724) | [Java](https://github.com/luna724/LunaClient) | [React](https://github.com/luna724/test) | C系 |
-| [ChatTriggers-JS](https://github.com/luna724/LunaClient) | [mcfunction](https://github.com/luna724/datapack-collection) | C++ | Go |
-| | [HTML / CSS / SCSS](https://github.com/luna724/luna724.github.io) | C# | Ruby |
-| | [JS / JSX](https://github.com/luna724/test) / TS | Blender | TypeScript |
-| | [React](https://github.com/luna724/test) | VRoid | |
+| [Markdown](https://github.com/luna724/luna724) | UniVRM | [React](https://github.com/luna724/test) | C系 |
+| [ChatTriggers](https://github.com/luna724/LunaClient) | [mcfunction](https://github.com/luna724/datapack-collection) | UniVRM | Go |
+| [Java / Kotlin](https://github.com/luna724/LunaClient) | [HTML / CSS / SCSS](https://github.com/luna724/luna724.github.io) |  | Ruby |
+| | [JS / JSX](https://github.com/luna724/test) / TS |  | TypeScript |
+| | [React](https://github.com/luna724/test) |  | Java |
