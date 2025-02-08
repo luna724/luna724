@@ -10,7 +10,7 @@
 				},
 				{
 					"type": 0,
-					"pattern": " Most Wool Placed  - (.*)?"
+					"pattern": "Most Wool Placed\\s*-\\s "
 				},
 				{
 					"type": 0,
