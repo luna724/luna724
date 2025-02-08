@@ -10,7 +10,7 @@
 				},
 				{
 					"type": 0,
-					"pattern": "^         Most Blocks Broken  - .*"
+					"pattern": "^                              Final Game Stats$"
 				},
 				{
 					"type": 0,
