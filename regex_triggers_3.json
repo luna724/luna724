@@ -10,7 +10,7 @@
 				},
 				{
 					"type": 0,
-					"pattern": "Most Wool Placed\\s*-\\s "
+					"pattern": "^ +Your team won!$"
 				},
 				{
 					"type": 0,
