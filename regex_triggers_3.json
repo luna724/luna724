@@ -10,7 +10,7 @@
 				},
 				{
 					"type": 0,
-					"pattern": "^                              Final Game Stats$"
+					"pattern": " Most Wool Placed  - (.*)?"
 				},
 				{
 					"type": 0,
