@@ -28,7 +28,7 @@
 <h3 align="center"> メイン言語 </h3>
   <p align="center"> 
     <a href="https://github.com/luna724/SDPEM"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
-    <a href="https://github.com/luna724/LunaClient"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </a>
+    <a href="https://github.com/luna724/BinSniper"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </a>
   </p>
 
 
@@ -37,7 +37,7 @@
 | かなり使える言語 | まあまあ使える言語 | 学習中の言語 | 嫌いな言語 |
 | :-------------: | :--------------: | :---------: | :-------: |
 | [Markdown](https://github.com/luna724/luna724) | UniVRM | Rust | 大文字のCから始まるヤツ |
-| [ChatTriggers](https://github.com/luna724/LunaClient) | [mcfunction](https://github.com/luna724/datapack-collection) |  | Go |
-| [Java / Kotlin](https://github.com/luna724/LunaClient) | [HTML / CSS / SCSS](https://github.com/luna724/luna724.github.io) |  | Ruby |
+| [ctjs](https://github.com/luna724/LunaClient) | [mcfunction](https://github.com/luna724/datapack-collection) | React | Go |
+| [Java / Kotlin](https://github.com/luna724/LunaClient) | [HTML / CSS / SCSS](https://github.com/luna724/luna724.github.io) | Tailewind | Ruby |
 | | [JS / JSX](https://github.com/luna724/test) / TS |  | TypeScript |
 | | [React](https://github.com/luna724/test) |  | Java |
